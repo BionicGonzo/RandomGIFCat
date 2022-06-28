@@ -1,3 +1,4 @@
+<img src="./assets/RandomGIFCat.png">
 <<<<<<< HEAD
 # de-randomgifcat
 
