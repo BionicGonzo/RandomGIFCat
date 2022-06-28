@@ -1,4 +1,4 @@
-<img src="./assets/RandomGIFCat.png">
+<img src="assets/RandomGIFCat.png">
 <<<<<<< HEAD
 # de-randomgifcat
 
